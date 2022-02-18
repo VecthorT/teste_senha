@@ -1,0 +1,7 @@
+Sua Senha deve:
+Possuir no mínimo 6 caracteres.
+Conter no mínimo 1 digito.
+Conter no mínimo 1 letra em minúsculo.
+Conter no mínimo 1 letra em maiúsculo.
+Conter no mínimo 1 caractere especial.
+Os caracteres especiais são: !@#$%^&*()-+
